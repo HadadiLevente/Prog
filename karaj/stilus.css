@@ -1,0 +1,53 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	color: #f4c69a;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+	background-color: #503b35;
+	width: 800px;
+	margin: auto;
+	border: 0px;
+	padding: 10px;
+}
+hr {
+	width: 60%;
+}
+
+h1, h2{
+	color: #f26600;
+	text-align: center;
+}
+
+.tartalom {
+	margin: 0 auto 0 auto;
+}
+
+.fejlec{
+	border: 0px;
+}
+
+.bal {
+	width: 350px;
+	float: left;
+}
+
+.jobb {
+	margin-left: 380px;
+}
+
+.lablec {
+	clear: both;
+	margin: auto;
+	width: fit-content;
+}
+
+a:link, a:visited a:active a:hover {
+	color: #f26600;
+}
+.td{
+	text-align: center;
+}
+
